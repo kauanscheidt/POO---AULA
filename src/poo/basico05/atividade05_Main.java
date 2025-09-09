@@ -6,7 +6,7 @@ public class atividade05_Main {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
 
-            atividade05 cardapio = new atividade05(); // Cria o objeto que sabe os preços
+            atividade05 cardapio = new atividade05();
 
             double totalGeral = 0.0;
 
